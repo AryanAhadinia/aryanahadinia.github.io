@@ -152,7 +152,7 @@ There is a list of my publications with a brief description about them in [publi
         <img class="logo" src="/Institutes/Sharif.png" alt="Sharif University of Technology">
         <div class="institution">Sharif University of Technology</div>
         <div class="degree">Undergraduate Researcher</div>
-        <div class="date">2021 - Present</div>
+        <div class="date">2021 - 2024</div>
     </div>
     <div>
         <img class="logo" src="/Institutes/Wize.png" alt="Allameh Helli High School">
